@@ -9,5 +9,3 @@ def index(request):
 
 def about(request):
     return render(request, 'pages/about.html')
-
-

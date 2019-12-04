@@ -2,11 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b72409-89db-4329-99f4-14abc8512f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/realestate/static/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/building.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/lightbox/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/lightbox/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/lightbox/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/lightbox/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/img/showcase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realestate/static/webfonts/fa-solid-900.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/apps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/realestate/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/realestate/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realestate/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/realestate/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
@@ -92,7 +122,7 @@
       <workItem from="1575379562752" duration="46000" />
       <workItem from="1575379974972" duration="307000" />
       <workItem from="1575380636712" duration="2216000" />
-      <workItem from="1575455092908" duration="3304000" />
+      <workItem from="1575455092908" duration="5024000" />
     </task>
     <servers />
   </component>
@@ -139,5 +169,9 @@
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="1713" y="250" width="1022" height="737" key="SettingsEditor/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575457038066" />
+    <state x="1857" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1575459132967">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1857" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575459132967" />
   </component>
 </project>

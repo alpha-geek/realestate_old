@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b72409-89db-4329-99f4-14abc8512f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/listings/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/realtors/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listings/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/listings/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listings/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/listings/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listings/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/listings/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/realestate/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/realestate/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realtors/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/realtors/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/listings/listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/listings/listings.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/listings/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/partials/_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realestate/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/realestate/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realtors/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/realtors/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +36,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/realestate/static/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="realestate" type="Python.DjangoServer" factoryName="Django server">
@@ -96,7 +96,7 @@
       <workItem from="1575379974972" duration="307000" />
       <workItem from="1575380636712" duration="2216000" />
       <workItem from="1575455092908" duration="15126000" />
-      <workItem from="1575528199420" duration="8502000" />
+      <workItem from="1575528199420" duration="16753000" />
     </task>
     <servers />
   </component>
@@ -119,26 +119,26 @@
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="1832" y="158" width="424" height="491" key="FileChooserDialogImpl/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@0.56.1280.1024" timestamp="1575446445113" />
-    <state width="1830" height="275" key="GridCell.Tab.0.bottom" timestamp="1575537639701">
+    <state width="1830" height="275" key="GridCell.Tab.0.bottom" timestamp="1575541306003">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="1830" height="275" key="GridCell.Tab.0.bottom/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@0.56.1280.1024" timestamp="1575446449402" />
-    <state width="1830" height="275" key="GridCell.Tab.0.bottom/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575537639701" />
-    <state width="1830" height="275" key="GridCell.Tab.0.center" timestamp="1575537639701">
+    <state width="1830" height="275" key="GridCell.Tab.0.bottom/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575541306003" />
+    <state width="1830" height="275" key="GridCell.Tab.0.center" timestamp="1575541306003">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="1830" height="275" key="GridCell.Tab.0.center/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@0.56.1280.1024" timestamp="1575446449402" />
-    <state width="1830" height="275" key="GridCell.Tab.0.center/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575537639701" />
-    <state width="1830" height="275" key="GridCell.Tab.0.left" timestamp="1575537639701">
+    <state width="1830" height="275" key="GridCell.Tab.0.center/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575541306003" />
+    <state width="1830" height="275" key="GridCell.Tab.0.left" timestamp="1575541306003">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="1830" height="275" key="GridCell.Tab.0.left/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@0.56.1280.1024" timestamp="1575446449402" />
-    <state width="1830" height="275" key="GridCell.Tab.0.left/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575537639701" />
-    <state width="1830" height="275" key="GridCell.Tab.0.right" timestamp="1575537639701">
+    <state width="1830" height="275" key="GridCell.Tab.0.left/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575541306003" />
+    <state width="1830" height="275" key="GridCell.Tab.0.right" timestamp="1575541306003">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="1830" height="275" key="GridCell.Tab.0.right/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@0.56.1280.1024" timestamp="1575446449402" />
-    <state width="1830" height="275" key="GridCell.Tab.0.right/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575537639701" />
+    <state width="1830" height="275" key="GridCell.Tab.0.right/1280.0.1920.1080/3200.0.1920.1080/0.56.1280.1024@1280.0.1920.1080" timestamp="1575541306003" />
     <state x="1713" y="250" width="1022" height="737" key="SettingsEditor" timestamp="1575457038066">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>

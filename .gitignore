@@ -10,8 +10,7 @@ venv
 *.pyc
 __pycache__
 venv/
-
-/cybersplice/venv
+realestate/venv
 
 # Backup files #
 *.bak

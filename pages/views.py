@@ -10,7 +10,7 @@ def index(request):
     listings = Listing.objects.order_by('-list_date').filter(is_published=True)[:3]
 
     context = {
-        'Listings': listings
+        'listings': listings
     }
 
     return render(request, 'pages/index.html', context)
@@ -25,7 +25,7 @@ def about(request):
 
     context = {
         'realtors': realtors,
-        'mvp_realtors': mvp_realtors,
+        'mvp_realtors': mvp_realtors
     }
 
     return render(request, 'pages/about.html', context)
